@@ -7,6 +7,8 @@
 
 骏马金鞭无数，良辰美景追随。
 
+- March 21, 2018 » [小项目使用vw实现移动端适配](https://github.com/liangfengbo/blog/issues/4)
+
 - March 19, 2018 » [入行前端一年经验与体会](https://github.com/liangfengbo/blog/issues/3)
 
 #### February
