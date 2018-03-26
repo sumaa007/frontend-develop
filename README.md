@@ -7,6 +7,9 @@
 
 骏马金鞭无数，良辰美景追随。
 
+
+- March 26, 2018 » [js 最简单的四种获取本地时间格式 #8](https://github.com/liangfengbo/frontend/issues/8)
+
 - March 24, 2018 » [CSS Box Model 盒模型 #7](https://github.com/liangfengbo/frontend/issues/7)
 
 - March 23, 2018 » [理解与使用JS的 localStorage与sessionStorage #6](https://github.com/liangfengbo/frontend/issues/6)
