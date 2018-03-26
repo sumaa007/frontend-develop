@@ -8,6 +8,8 @@
 骏马金鞭无数，良辰美景追随。
 
 
+- March 26, 2018 » [最简单的点击切换active #9](https://github.com/liangfengbo/frontend/issues/9)
+
 - March 26, 2018 » [js 最简单的四种获取本地时间格式 #8](https://github.com/liangfengbo/frontend/issues/8)
 
 - March 24, 2018 » [CSS Box Model 盒模型 #7](https://github.com/liangfengbo/frontend/issues/7)
