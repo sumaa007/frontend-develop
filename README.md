@@ -7,6 +7,8 @@
 
 骏马金鞭无数，良辰美景追随。
 
+- March 26, 2018 » [vue 父子组件通信方法 #11](https://github.com/liangfengbo/frontend/issues/11)
+
 - March 26, 2018 » [vue axios fetch data #10](https://github.com/liangfengbo/frontend/issues/10)
 
 - March 26, 2018 » [vue最简单的点击切换active #9](https://github.com/liangfengbo/frontend/issues/9)
