@@ -23,6 +23,8 @@
 
 骏马金鞭无数，良辰美景追随。
 
+- March 28, 2018 » [2018年梁凤波学习清单 #12](https://github.com/liangfengbo/frontend/issues/12)
+
 - March 26, 2018 » [vue 父子组件通信方法 #11](https://github.com/liangfengbo/frontend/issues/11)
 
 - March 26, 2018 » [vue axios fetch data #10](https://github.com/liangfengbo/frontend/issues/10)
