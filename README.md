@@ -30,7 +30,8 @@
 
 不忘初心者，岁月终成诗。
 
- - look forward to..
+ - April 7, 2018 » [小程序入门教程 #13](https://github.com/liangfengbo/frontend/issues/13)
+
 
 #### March 2018
 
