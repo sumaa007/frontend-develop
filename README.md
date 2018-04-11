@@ -22,6 +22,8 @@
 
 不忘初心者，岁月终成诗。
 
+ - April 11, 2018 » [解决vuejs 创建数据后设置对象的属性实现不了双向绑定问题 #16](https://github.com/liangfengbo/frontend/issues/16)
+
  - April 11, 2018 » [Mac 安装与配置mongodb #15](https://github.com/liangfengbo/frontend/issues/15)
 
  - April 9, 2018 » [从0开始配置babel、webpack构建项目 #14](https://github.com/liangfengbo/frontend/issues/14)
