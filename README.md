@@ -22,6 +22,7 @@
 
 不忘初心者，岁月终成诗。
 
+ - April 20, 2018 » [js 获取url大全 #18](https://github.com/liangfengbo/frontend/issues/18)
 
  - April 19, 2018 » [vue 项目引入微信jssdk #17](https://github.com/liangfengbo/frontend/issues/17)
 
