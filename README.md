@@ -39,6 +39,8 @@
 
 骏马金鞭无数，良辰美景追随。
 
+- March 28, 2018 » [mpvue 小程序加载不了图片 Error: Failed to load local image resource /images/xx.png the server responded with a status of 404 (HTTP/1.1 404 Not Found) #13](https://github.com/liangfengbo/frontend/issues/13)
+
 - March 28, 2018 » [2018年梁凤波学习清单 #12](https://github.com/liangfengbo/frontend/issues/12)
 
 - March 26, 2018 » [vue 父子组件通信方法 #11](https://github.com/liangfengbo/frontend/issues/11)
