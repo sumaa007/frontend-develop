@@ -22,6 +22,8 @@
 
 不忘初心者，岁月终成诗。
 
+ - April 24, 2018 » [mpvue 小程序加载不了图片 Error: Failed to load local image resource /images/xx.png the server responded with a status of 404 (HTTP/1.1 404 Not Found) #19](https://github.com/liangfengbo/frontend/issues/19)
+
  - April 20, 2018 » [js 获取url大全 #18](https://github.com/liangfengbo/frontend/issues/18)
 
  - April 19, 2018 » [vue 项目引入微信jssdk #17](https://github.com/liangfengbo/frontend/issues/17)
@@ -38,8 +40,6 @@
 #### March 2018
 
 骏马金鞭无数，良辰美景追随。
-
-- March 28, 2018 » [mpvue 小程序加载不了图片 Error: Failed to load local image resource /images/xx.png the server responded with a status of 404 (HTTP/1.1 404 Not Found) #13](https://github.com/liangfengbo/frontend/issues/13)
 
 - March 28, 2018 » [2018年梁凤波学习清单 #12](https://github.com/liangfengbo/frontend/issues/12)
 
