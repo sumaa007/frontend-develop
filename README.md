@@ -22,7 +22,7 @@
 
 #### May 2018
 
-忆长安，五月时，君王避暑华池。进膳甘瓜朱李。
+黄梅时节家家雨，青草池塘处处蛙。
 
  - May 1, 2018 » [学习MySQL增删改查](https://github.com/liangfengbo/frontend/issues/20)
  
