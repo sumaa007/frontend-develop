@@ -24,6 +24,8 @@
 
 黄梅时节家家雨，青草池塘处处蛙。
 
+ - May 4, 2018 » [小程序上传图片到七牛](https://github.com/liangfengbo/frontend/issues/21)
+ 
  - May 1, 2018 » [学习MySQL增删改查](https://github.com/liangfengbo/frontend/issues/20)
  
 
