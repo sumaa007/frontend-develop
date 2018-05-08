@@ -14,10 +14,7 @@
 
 - 微博: [梁凤波 https://weibo.com/liangfengbo](https://weibo.com/liangfengbo)
 
-- Email: yibowanbo@gmail.com
-
-- Domain: [yibowanbo.com](yibowanbo.com)
-
+- Email: itbo@163.com
 
 
 #### May 2018
