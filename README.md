@@ -23,7 +23,7 @@
 
 黄梅时节家家雨，青草池塘处处蛙。
 
- - May 8, 2018 » [mpvue 开发小程序接口数据统一管理 (Mpvue development applet interface data unified management) #23](https://github.com/liangfengbo/frontend/issues/23)
+ - May 14, 2018 » [mpvue 开发小程序接口数据统一管理 (Mpvue development applet interface data unified management) #23](https://github.com/liangfengbo/frontend/issues/23)
 
  - May 8, 2018 » [Nodejs操作MySQL - 增删改查 (Nodejs Operation MySQL - Add, Delete, Update, Check) #22](https://github.com/liangfengbo/frontend/issues/22)
  
