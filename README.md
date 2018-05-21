@@ -11,7 +11,7 @@
 - Email: LiangFengBob@Gmail.com
 
 
-####  ✅ HTML / CSS »
+###  ✅ HTML / CSS »
 
 - March 24, 2018 » [CSS Box Model 盒模型 #7](https://github.com/liangfengbo/frontend/issues/7)
 
@@ -20,7 +20,7 @@
 - March 19, 2018 » [入行前端一年经验与体会 #3](https://github.com/liangfengbo/frontend/issues/3)
 
 
-#### ✅ Javascript »
+### ✅ Javascript »
 
 - February 24, 2018 » [前端代码规范（强烈推荐 | 转载非原创） #2](https://github.com/liangfengbo/frontend/issues/2)
 
@@ -36,7 +36,7 @@
 
 
 
-#### ✅ Vuejs »
+### ✅ Vuejs »
 
 - April 19, 2018 » [vuejs 项目引入微信jssdk  #17](https://github.com/liangfengbo/frontend/issues/17)
 
@@ -50,18 +50,18 @@
 - March 26, 2018 » [vue最简单的点击切换active#9](https://github.com/liangfengbo/frontend/issues/9)
 
 
-#### ✅ Nodejs »
+### ✅ Nodejs »
 
 - May 21, 2018 » [Nodejs 基础到入门学习计划](https://github.com/liangfengbo/learning-nodejs)
 
 
-#### ✅ Webpack »
+### ✅ Webpack »
 
  - April 9, 2018 » [从0开始配置babel、webpack构建项目  #14](https://github.com/liangfengbo/frontend/issues/14)
  
 
 
-#### ✅ 小程序 »
+### ✅ 小程序 »
 
 - May 14, 2018 » [mpvue 开发小程序接口数据统一管理 #23](https://github.com/liangfengbo/frontend/issues/23)
 
@@ -75,13 +75,13 @@
  - April 7, 2018 » [小程序入门教程 #13](https://github.com/liangfengbo/frontend/issues/13)
 
 
-#### ✅ MySQL »
+### ✅ MySQL »
  
  - May 1, 2018 » [学习MySQL增删改查 #20](https://github.com/liangfengbo/frontend/issues/20)
   
  - May 8, 2018 » [Nodejs操作MySQL - 增删改查 #22](https://github.com/liangfengbo/frontend/issues/22)
 
-#### ✅ MongoDB »
+### ✅ MongoDB »
  
  - April 11, 2018 » [Mac 安装与配置mongodb #15](https://github.com/liangfengbo/frontend/issues/15)
 
