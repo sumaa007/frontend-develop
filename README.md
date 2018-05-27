@@ -45,6 +45,7 @@
 
 - February 24, 2018 » [JavaScript的作用域和闭包#1](https://github.com/liangfengbo/frontend-develop/issues/1)
 
+- May 27, 2018 » [深入理解ES6 - var-let-const #25](https://github.com/liangfengbo/frontend-develop/issues/25)
 
 
 ### Vuejs »
