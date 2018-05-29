@@ -63,6 +63,7 @@
 
 - May 22, 2018 » [vuejs 使用less #24](https://github.com/liangfengbo/frontend-develop/issues/24)
 
+- May 29, 2018 » [vuejs切换导航条高亮路由高亮做法 #26](https://github.com/liangfengbo/frontend-develop/issues/26)
 
 
 ### Nodejs »
