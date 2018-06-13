@@ -60,6 +60,7 @@ May 29, 2018 | vuejs切换导航条高亮路由高亮做法 #26 | [查看文章 
 时间 | 标题 | 链接
 ---|--- | ---
 May 21, 2018 | Nodejs 基础到入门学习计划 | [查看文章 »](https://github.com/liangfengbo/learning-nodejs)
+June 14, 2018 | nvm淘宝源升级安装最新稳定版nodejs #27 |  [查看文章 »](https://github.com/liangfengbo/frontend-develop/issues/27)
 
 
 ###  小程序 »
