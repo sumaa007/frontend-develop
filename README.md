@@ -10,7 +10,7 @@
 
 - 微博: [梁凤波 https://weibo.com/liangfengbo](https://weibo.com/liangfengbo)
 
-- Email: LiangFengBob@Gmail.com
+- Email: itbo@163.com
 
 
 ## 目录 »
@@ -127,5 +127,5 @@ May 1, 2018 » [学习MySQL增删改查](https://github.com/liangfengbo/frontend
 May 8, 2018  » [Nodejs操作MySQL - 增删改查](https://github.com/liangfengbo/frontend-develop/issues/22)
  
   
-## 码梦为生，笔耕不辍。Life.
+### 码梦为生，笔耕不辍。Life.
 
