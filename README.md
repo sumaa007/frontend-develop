@@ -55,7 +55,12 @@ February 24, 2018  » [JavaScript的作用域和闭包](https://github.com/liang
 May 27, 2018 » [深入理解ES6 - var-let-const](https://github.com/liangfengbo/frontend-develop/issues/25)
 
 
-## Vuejs »
+## Vuejs » 
+
+August 2, 2018 » [vuejs input当用户输入文字停下1秒后自动搜索](https://github.com/liangfengbo/frontend-develop/issues/31)
+
+August 2, 2018 » [vuejs input自动对焦](https://github.com/liangfengbo/frontend-develop/issues/30)
+
 April 19, 2018 » [vuejs 项目引入微信jssdk](https://github.com/liangfengbo/frontend-develop/issues/17)
 
 April 11, 2018 » [解决vuejs 创建数据后设置对象的属性实现不了双向绑定问题](https://github.com/liangfengbo/frontend-develop/issues/16)
