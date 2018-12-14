@@ -35,6 +35,7 @@ March 19, 2018 » [入行前端一年经验与体会](https://github.com/liangfe
 
 
 ## JavaScript »
+December 14, 2018 » [前端面试基础笔记](https://github.com/liangfengbo/frontend-develop/issues/35)
 
 July 21, 2018 » [深入浅出Ajax](https://github.com/liangfengbo/frontend-develop/issues/28)
 
