@@ -1,28 +1,7 @@
-## Frontend - Fengbo Liang
-
+## Frontend Develop
 - 前端经验总结，喜欢的话请点star✨✨，想订阅点watch🎉，Thanks.
-
 - Github: [ https://github.com/liangfengbo](https://github.com/liangfengbo)
-
-- Segmentfault: [https://segmentfault.com/u/liangfengbo](https://segmentfault.com/u/liangfengbo) 
-
-- 知乎: [梁凤波 https://www.zhihu.com/people/liangfengbo](https://www.zhihu.com/people/liangfengbo)
-
-- 微博: [梁凤波 https://weibo.com/liangfengbo](https://weibo.com/liangfengbo)
-
 - Email: itbo@163.com
-
-
-## 目录 »
- - [HTML / CSS](https://github.com/liangfengbo/frontend-develop#html--css--)
- - [Javascript](https://github.com/liangfengbo/frontend-develop#javascript-)
- - [Vuejs](https://github.com/liangfengbo/frontend-develop#vuejs-)
- - [Nodejs](https://github.com/liangfengbo/frontend-develop#nodejs-)
- - [webpack](https://github.com/liangfengbo/frontend-develop#webpack-)
- - [小程序](https://github.com/liangfengbo/frontend-develop#%E5%B0%8F%E7%A8%8B%E5%BA%8F-)
- - [MySQL](https://github.com/liangfengbo/frontend-develop#mysql-)
- - [MongoDB](https://github.com/liangfengbo/frontend-develop#mongodb-)
-
 
 
 ## HTML / CSS  »
@@ -91,37 +70,6 @@ May 4, 2018 » [小程序上传图片到七牛](https://github.com/liangfengbo/f
 April 24, 2018 » [mpvue 小程序加载不了图片](https://github.com/liangfengbo/frontend-develop/issues/19)
 
 April 7, 2018 » [小程序入门教程](https://github.com/liangfengbo/frontend-develop/issues/12)
-
-
-## Webpack »
-July 21, 2018 »  [前端模块化规范](https://github.com/liangfengbo/frontend-develop/blob/master/%E5%89%8D%E7%AB%AF%E6%A8%A1%E5%9D%97%E5%8C%96%E8%A7%84%E8%8C%83.md)
-
-July 21, 2018 »  [webpack核心概念](https://github.com/liangfengbo/frontend-develop/blob/master/webpack%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md)
-
-July 21, 2018 »  [webpack打包三个方式](https://github.com/liangfengbo/frontend-develop/tree/master/use-webpack)
-
-July 21, 2018 »  [webpack编译ES6](https://github.com/liangfengbo/frontend-develop/tree/master/webpack-es6)
-
-July 21, 2018 »  [webpack编译typescript](https://github.com/liangfengbo/frontend-develop/tree/master/webpack-typescript)
-
-July 21, 2018 »  [webpack4打包提取公共代码](https://github.com/liangfengbo/frontend-develop/tree/master/webpack-package-public-code)
-
-July 21, 2018 »  [webpack代码分割和懒加载](https://github.com/liangfengbo/frontend-develop/tree/master/webpack-code-splitting-and-lazy-loading)
-
-July 21, 2018 »  [webpack处理css-style-loader](https://github.com/liangfengbo/frontend-develop/tree/master/webpack-style-loader)
-
-July 21, 2018 »  [webpack处理css-loader](https://github.com/liangfengbo/frontend-develop/tree/master/webpack-css-loader)
-
-July 21, 2018 »  [webpack处理css-配置less与sass](https://github.com/liangfengbo/frontend-develop/tree/master/webpack-less-sass-loader)
-
-July 21, 2018 »  [webpack提取css](https://github.com/liangfengbo/frontend-develop/tree/master/webpack-extract-css)
-
-July 21, 2018 »  [webpack处理PostCss](https://github.com/liangfengbo/frontend-develop/tree/master/webpack-postcss)
-
-July 21, 2018 »  [webpack处理图片（压缩与雪碧图）和文字](https://github.com/liangfengbo/frontend-develop/tree/master/webpack-image-processing)
-
-April 9, 2018 » [从0开始配置babel、webpack构建项目](https://github.com/liangfengbo/frontend-develop/issues/14)
-
 
 ## MongoDB »
 April 11, 2018 » [Mac 安装与配置mongodb](https://github.com/liangfengbo/frontend-develop/issues/15)
