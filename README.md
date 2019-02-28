@@ -4,7 +4,7 @@
 - Domain: [www.yqjq.com](www.yqjq.com) 猿球崛起（建站中..） 
 - Email: itbo@163.com
 
-> 原来的文章还在，可以在[issues](https://github.com/liangfengbo/frontend-develop/issues)查看，下面是我上半年准备要写的大纲，谢谢你的支持。
+> 原来的文章还在，可以在[issues](https://github.com/liangfengbo/frontend-develop/issues?q=is%3Aissue+is%3Aclosed)查看，下面是我上半年准备要写的大纲，谢谢你的支持。
 
 
 ## JavaScript函数 »
