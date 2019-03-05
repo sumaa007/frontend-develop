@@ -6,7 +6,7 @@
 
 程序猿，除了coding，总有一项爱好吧~
 
-> 非常抱歉，原来的文章还在，可以在[issues](https://github.com/liangfengbo/frontend-develop/issues?q=is%3Aissue+is%3Aclosed)查看阅读，下面是我2019年准备要写的知识大纲，谢谢您的支持。写作中ing..
+> 非常抱歉，原来的文章还在，可以在[issues](https://github.com/liangfengbo/frontend-develop/issues?q=is%3Aissue+is%3Aclosed) 或者切换[develop分支](https://github.com/liangfengbo/frontend-develop/tree/develop)查看阅读，下面是我2019年准备要写的知识大纲，谢谢您的支持。写作中ing..
 
 ## JavaScript面向对象 »
 - [深入理解JavaScript原型、原型链与继承 »](https://github.com/liangfengbo/frontend-develop/issues/38)
@@ -19,7 +19,7 @@
 ## JavaScript异步与性能 »
 - callback，Promise，Generator，async/await
 - [Promise入门 »](https://github.com/liangfengbo/frontend-develop/issues/40)
-- [理解迭代器（Iterator）和生成器（Generator）](https://github.com/liangfengbo/frontend-develop/issues/41)
+- [理解迭代器（Iterator）和生成器（Generator） »](https://github.com/liangfengbo/frontend-develop/issues/41)
 - 性能优化
 - 参考资料
     - 《深入理解ES6》-第十一章-Promise
