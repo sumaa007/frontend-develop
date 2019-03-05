@@ -47,7 +47,7 @@
 
 ## HTTP »
 - 状态码（101协议升级，缓存：301，302，304协商缓存，307）
-- 缓存
+- [深入理解HTTP缓存机制-强缓存与协商缓存](https://github.com/liangfengbo/frontend-develop/issues/39)
 - 参考资料
     - 《图解HTTP》 
 
