@@ -9,7 +9,7 @@
 > 非常抱歉，原来的文章还在，可以在[issues](https://github.com/liangfengbo/frontend-develop/issues?q=is%3Aissue+is%3Aclosed)查看阅读，下面是我2019年准备要写的知识大纲，谢谢您的支持。写作中ing..
 
 ## JavaScript面向对象 »
-- [深入理解JavaScript原型、原型链与继承](https://github.com/liangfengbo/frontend-develop/issues/38)
+- [深入理解JavaScript原型、原型链与继承 »](https://github.com/liangfengbo/frontend-develop/issues/38)
 - 参考资料
     - 《JS高程3》- 第六章-6.2~6.3节 原型与继承
     - 《深入理解es6》- 第九章-JS的类
@@ -18,6 +18,7 @@
 
 ## JavaScript异步与性能 »
 - callback，Promise，Generator，async/await
+- [Promise入门 »](https://github.com/liangfengbo/frontend-develop/issues/40)
 - 性能优化
 - 参考资料
     - 《深入理解ES6》-第十一章-Promise
@@ -47,7 +48,7 @@
 
 ## HTTP »
 - 状态码（101协议升级，缓存：301，302，304协商缓存，307）
-- [深入理解HTTP缓存机制-强缓存与协商缓存](https://github.com/liangfengbo/frontend-develop/issues/39)
+- [深入理解HTTP缓存机制-强缓存与协商缓存 »](https://github.com/liangfengbo/frontend-develop/issues/39)
 - 参考资料
     - 《图解HTTP》 
 
