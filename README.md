@@ -9,8 +9,7 @@
 > 非常抱歉，原来的文章还在，可以在[issues](https://github.com/liangfengbo/frontend-develop/issues?q=is%3Aissue+is%3Aclosed)查看阅读，下面是我2019年准备要写的知识大纲，谢谢您的支持。写作中ing..
 
 ## JavaScript面向对象 »
-- 原型与原型链
-- 继承
+- [深入理解JavaScript原型、原型链与继承](https://github.com/liangfengbo/frontend-develop/issues/38)
 - 参考资料
     - 《JS高程3》- 第六章-6.2~6.3节 原型与继承
     - 《深入理解es6》- 第九章-JS的类
