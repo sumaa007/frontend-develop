@@ -12,7 +12,7 @@
 - [文章：深入理解JavaScript原型、原型链与继承](https://github.com/liangfengbo/frontend-develop/issues/38)
 - 参考资料
     - 《JS高程3》- 第六章-6.2~6.3节 原型与继承
-    - 《深入理解es6》- 第九章-JS的类
+    - 《深入理解ES6》- 第九章-JS的类
     - 《小黄书上卷》- 第五章-原型
     - 《JS忍者2》- 第七章-面向对象与原型
 
@@ -31,14 +31,8 @@
 
 
 ## JavaScript函数 »
-- 执行上下文
-- 作用域，作用域链
+- 执行上下文，作用域，作用域链，this，闭包，箭头函数，call，bind，apply，高阶函数，递归
 - [文章：理解JavaScript的this对象](https://github.com/liangfengbo/frontend-develop/issues/43)
-- 闭包
-- 箭头函数
-- call，bind，apply
-- 高阶函数
-- 递归
 - 参考资料
     - 《JS高程3》- 第七章 递归与闭包
     - 《小黄色上卷》 - 第一部分作用域第1，2，3，4，5章
