@@ -19,7 +19,8 @@
 ## JavaScript异步与性能 »
 - callback，Promise，Generator，async/await
 - [Promise入门 »](https://github.com/liangfengbo/frontend-develop/issues/40)
-- [理解迭代器（Iterator）和生成器（Generator） »](https://github.com/liangfengbo/frontend-develop/issues/41)
+- [理解迭代器（Iterator）和生成器（Generator）»](https://github.com/liangfengbo/frontend-develop/issues/41)
+- [async/await入门](https://github.com/liangfengbo/frontend-develop/issues/42)
 - 性能优化
 - 参考资料
     - 《深入理解ES6》-第十一章-Promise
