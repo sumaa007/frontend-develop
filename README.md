@@ -31,12 +31,17 @@
 
 
 ## JavaScript函数 »
-- 执行上下文，作用域，作用域链，this，闭包，箭头函数，call，bind，apply，高阶函数，递归
+- 作用域与闭包
+- this
+- call，apply，bind
 - [文章：理解JavaScript的this对象](https://github.com/liangfengbo/frontend-develop/issues/43)
 - 参考资料
     - 《JS高程3》- 第七章 递归与闭包
     - 《小黄色上卷》 - 第一部分作用域第1，2，3，4，5章
     - 《JS忍者2》 - 第五章闭包与作用域
+## JavaScript核心 »
+- 强类型转换
+- 数组，字符串，对象
 
 ## 模块化 »
 - AMD & CMD，CommonJS
@@ -62,4 +67,3 @@
 - 虚拟DOM
     
 ### 码梦为生，笔耕不辍。Life.
-
