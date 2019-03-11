@@ -14,6 +14,8 @@
 - [文章：理解清楚__proto__、prototype 与 constructor 之间的关系](https://github.com/liangfengbo/frontend-develop/issues/47)
 - [文章：instanceof原理](https://github.com/liangfengbo/frontend-develop/issues/48)
 - [文章：用JS写一个原型链继承的例子](https://github.com/liangfengbo/frontend-develop/issues/49)
+- [文章：jQuery原型实际应用](https://github.com/liangfengbo/frontend-develop/issues/50)
+- [文章：Zepto.js原型实际应用](https://github.com/liangfengbo/frontend-develop/issues/51)
 - 参考资料
     - 《JS高程3》- 第六章-6.2~6.3节 原型与继承
     - 《深入理解ES6》- 第九章-JS的类
