@@ -17,10 +17,11 @@
 - [文章：jQuery原型实际应用](https://github.com/liangfengbo/frontend-develop/issues/50)
 - [文章：Zepto.js原型实际应用](https://github.com/liangfengbo/frontend-develop/issues/51)
 - 参考资料
-    - 《JS高程3》- 第六章-6.2~6.3节 原型与继承
+    - 《JavaScript高级程序设计第三版》- 第六章-6.2~6.3节 原型与继承
     - 《深入理解ES6》- 第九章-JS的类
-    - 《小黄书上卷》- 第五章-原型
-    - 《JS忍者2》- 第七章-面向对象与原型
+    - 《你不知道的JavaScript上卷》- 第五章-原型
+    - 《JS忍者秘籍2》- 第七章-面向对象与原型
+    - 慕课网视频：前端JavaScript基础面试技巧
 
 ## JavaScript异步与性能 »
 - callback，Promise，Generator，async/await
@@ -32,9 +33,9 @@
 - 参考资料
     - 《深入理解ES6》-第十一章-Promise
     - 《深入理解ES6》- 第八章 - 迭代器与生成器
-    - 《小黄色下卷》-第四章promise
-    - 《小黄色中卷》- 第二部分1~5章
-    - 《JS忍者2》 - 第六章-生成器与promise
+    - 《你不知道的JavaScript下卷》-第四章promise
+    - 《你不知道的JavaScript中卷》- 第二部分1~5章
+    - 《JS忍者秘籍2》 - 第六章-生成器与promise
 
 
 ## JavaScript函数 »
@@ -43,9 +44,9 @@
 - call，apply，bind
 - [文章：理解JavaScript的this对象](https://github.com/liangfengbo/frontend-develop/issues/43)
 - 参考资料
-    - 《JS高程3》- 第七章 递归与闭包
-    - 《小黄色上卷》 - 第一部分作用域第1，2，3，4，5章
-    - 《JS忍者2》 - 第五章闭包与作用域
+    - 《JavaScript高级程序设计第三版》- 第七章 递归与闭包
+    - 《你不知道的JavaScript上卷》 - 第一部分作用域第1，2，3，4，5章
+    - 《JS忍者秘籍2》 - 第五章闭包与作用域
 ## JavaScript核心 »
 - 强类型转换
 - 数组，字符串，对象
