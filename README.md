@@ -10,6 +10,7 @@
 
 ## JavaScript面向对象 »
 - [文章：理解JS构造函数](https://github.com/liangfengbo/frontend-develop/issues/45)
+- [文章：理解JS原型与原型链](https://github.com/liangfengbo/frontend-develop/issues/46)
 - [文章：深入理解JavaScript原型、原型链与继承](https://github.com/liangfengbo/frontend-develop/issues/38)
 - 参考资料
     - 《JS高程3》- 第六章-6.2~6.3节 原型与继承
