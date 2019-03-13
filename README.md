@@ -6,7 +6,7 @@
 
 程序猿，除了coding，总有一项爱好吧~
 
-> 非常抱歉，原来的文章还在，可以在[issues](https://github.com/liangfengbo/frontend-develop/issues?q=is%3Aissue+is%3Aclosed) 或者切换[develop分支](https://github.com/liangfengbo/frontend-develop/tree/develop)查看阅读，下面是我2019年准备要写的知识大纲，长期维护，谢谢您的支持。写作中ing..
+> 非常抱歉，原来的文章还在，可以在[issues](https://github.com/liangfengbo/frontend-develop/issues?q=is%3Aissue+is%3Aclosed) 或者切换[develop分支](https://github.com/liangfengbo/frontend-develop/tree/develop)查看阅读，下面是我2019年准备要写的知识大纲，长期维护更新文章，谢谢您的支持。写作中ing..
 
 ## JavaScript面向对象 »
 - [文章：理解JS构造函数](https://github.com/liangfengbo/frontend-develop/issues/45)
