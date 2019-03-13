@@ -11,7 +11,7 @@
 ## JavaScript面向对象 »
 - [文章：理解JS构造函数](https://github.com/liangfengbo/frontend-develop/issues/45)
 - [文章：理解JS原型与原型链](https://github.com/liangfengbo/frontend-develop/issues/46)
-- [文章：理解清楚__proto__、prototype 与 constructor 之间的关系](https://github.com/liangfengbo/frontend-develop/issues/47)
+- [文章：图解原型、原型链和构造函数之间的关系 ](https://github.com/liangfengbo/frontend-develop/issues/47)
 - [文章：instanceof原理](https://github.com/liangfengbo/frontend-develop/issues/48)
 - [文章：用JS写一个原型链继承的例子](https://github.com/liangfengbo/frontend-develop/issues/49)
 - [文章：jQuery原型实际应用](https://github.com/liangfengbo/frontend-develop/issues/50)
