@@ -10,6 +10,25 @@
 
 ## HTML
  - [x] [DOCTYPE](https://github.com/liangfengbo/frontend-develop/issues/52)
+ 
+## 前端JavaScript面试技巧
+- [JS变量类型和计算](https://github.com/liangfengbo/frontend-develop/issues/53)
+- [JS原型与原型链](https://github.com/liangfengbo/frontend-develop/issues/54)
+- [JS作用域与闭包](https://github.com/liangfengbo/frontend-develop/issues/55)
+- [JS异步与单线程](https://github.com/liangfengbo/frontend-develop/issues/56)
+- [JS日期-Math-数组-对象基础API](https://github.com/liangfengbo/frontend-develop/issues/57)
+- [JS-DOM操作](https://github.com/liangfengbo/frontend-develop/issues/58)
+- [JS-BOM操作](https://github.com/liangfengbo/frontend-develop/issues/59)
+- [JS事件](https://github.com/liangfengbo/frontend-develop/issues/60)
+- [JS-Ajax-跨域](https://github.com/liangfengbo/frontend-develop/issues/61)
+- [JS-储存](https://github.com/liangfengbo/frontend-develop/issues/62)
+- [JS数组去重](https://github.com/liangfengbo/frontend-develop/issues/63)
+- [判断JS变量是不是数组](https://github.com/liangfengbo/frontend-develop/issues/64)
+- [5个很实用的数组迭代方法](https://github.com/liangfengbo/frontend-develop/issues/65)
+- [JS冒泡排序](https://github.com/liangfengbo/frontend-develop/issues/66)
+- [JS选择排序](https://github.com/liangfengbo/frontend-develop/issues/67)
+- [常用git命令](https://github.com/liangfengbo/frontend-develop/issues/68)
+
 
 ## JavaScript
 
