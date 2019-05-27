@@ -12,7 +12,7 @@
  - [x] [DOCTYPE](https://github.com/liangfengbo/frontend-develop/issues/52)
 
 ## JavaScript
-
+- [x] [文章：JavaScript的基本类型和引用类型](https://github.com/liangfengbo/frontend-develop/issues/69)
 - [x] [文章：理解JS构造函数](https://github.com/liangfengbo/frontend-develop/issues/45)
 - [x] [文章：理解JS原型与原型链](https://github.com/liangfengbo/frontend-develop/issues/46)
 - [x] [文章：图解原型、原型链和构造函数之间的关系 ](https://github.com/liangfengbo/frontend-develop/issues/47)
