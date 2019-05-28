@@ -14,6 +14,7 @@
 ## JavaScript
 - [x] [文章：JavaScript声明变量的方式、特点与区别](https://github.com/liangfengbo/frontend-develop/issues/72)
 - [x] [文章：JavaScript的基本类型和引用类型](https://github.com/liangfengbo/frontend-develop/issues/69)
+- [x] [文章：JavaScript数组方法大全](https://github.com/liangfengbo/frontend-develop/issues/73)
 - [x] [文章：理解JavaScript的作用域](https://github.com/liangfengbo/frontend-develop/issues/70)
 - [x] [文章：理解JavaScript的闭包](https://github.com/liangfengbo/frontend-develop/issues/71)
 - [x] [文章：理解JavaScript的this对象](https://github.com/liangfengbo/frontend-develop/issues/43)
