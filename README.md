@@ -12,10 +12,11 @@
  - [x] [DOCTYPE](https://github.com/liangfengbo/frontend-develop/issues/52)
 
 ## JavaScript
+- [x] [文章：JavaScript声明变量的方式、特点与区别](https://github.com/liangfengbo/frontend-develop/issues/72)
 - [x] [文章：JavaScript的基本类型和引用类型](https://github.com/liangfengbo/frontend-develop/issues/69)
 - [x] [文章：理解JavaScript的作用域](https://github.com/liangfengbo/frontend-develop/issues/70)
-- [x] [文章：JavaScript声明变量的方式、特点与区别](https://github.com/liangfengbo/frontend-develop/issues/72)
 - [x] [文章：理解JavaScript的闭包](https://github.com/liangfengbo/frontend-develop/issues/71)
+- [x] [文章：理解JavaScript的this对象](https://github.com/liangfengbo/frontend-develop/issues/43)
 - [x] [文章：理解JS构造函数](https://github.com/liangfengbo/frontend-develop/issues/45)
 - [x] [文章：理解JS原型与原型链](https://github.com/liangfengbo/frontend-develop/issues/46)
 - [x] [文章：图解原型、原型链和构造函数之间的关系 ](https://github.com/liangfengbo/frontend-develop/issues/47)
@@ -23,11 +24,10 @@
 - [x] [文章：用JS写一个原型链继承的例子](https://github.com/liangfengbo/frontend-develop/issues/49)
 - [x] [文章：jQuery原型实际应用](https://github.com/liangfengbo/frontend-develop/issues/50)
 - [x] [文章：Zepto.js原型实际应用](https://github.com/liangfengbo/frontend-develop/issues/51)
+- [x] [文章：JS异步编程概念](https://github.com/liangfengbo/frontend-develop/issues/44) 
 - [x] [文章：Promise入门](https://github.com/liangfengbo/frontend-develop/issues/40)
 - [x] [文章：理解迭代器（Iterator）和生成器（Generator）](https://github.com/liangfengbo/frontend-develop/issues/41)
 - [x] [文章：async/await入门](https://github.com/liangfengbo/frontend-develop/issues/42)
-- [x] [文章：JS异步编程概念](https://github.com/liangfengbo/frontend-develop/issues/44) 
-- [x] [文章：理解JavaScript的this对象](https://github.com/liangfengbo/frontend-develop/issues/43)
  
 ## 前端JavaScript面试技巧
 - [x] [文章：JS变量类型和计算](https://github.com/liangfengbo/frontend-develop/issues/53)
